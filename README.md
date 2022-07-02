@@ -1,2 +1,2 @@
-# ipd_competenciasdegestao
+# idp_competenciasdegestao
 Repositorio da Disciplina Competências de Gestão - IDP
